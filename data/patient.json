@@ -1,1 +1,5 @@
-
+{"patient_id": 1, "name": "Amit", "age": 45, "disease": "Diabetes", "insurance": "Star Health"}
+{"patient_id": 2, "name": "Sara", "age": 30, "disease": "Hypertension", "insurance": "HDFC Ergo"}
+{"patient_id": 3, "name": "John", "age": 60, "disease": "Cardiac Arrest", "insurance": "ICICI Lombard"}
+{"patient_id": 4, "name": "Priya", "age": 25, "disease": "Asthma", "insurance": "Star Health"}
+{"patient_id": 5, "name": "Rahul", "age": 50, "disease": "Diabetes", "insurance": "HDFC Ergo"}
